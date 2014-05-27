@@ -1,4 +1,0 @@
-cobaNotepad
-===========
-
-ini coba percobaan
